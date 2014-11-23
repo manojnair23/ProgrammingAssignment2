@@ -1,4 +1,4 @@
-## This code has two main functions 
+## This code has two main functions
 ## makeCacheMatix() creates a matix which can cache it's inverse 
 ## cacheSolve computes the inverse if the same is notcomputed 
 ## else it retrives the value stored i cache
